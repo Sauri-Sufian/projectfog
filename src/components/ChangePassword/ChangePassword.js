@@ -24,7 +24,7 @@ class ChangePassword extends Component{
   
   <button 
     onClick={()=>onRouteChange('home')}
-  className="primary " type="submit">
+  className="primary1 " type="submit">
     Change Password
   </button>
 </Form>

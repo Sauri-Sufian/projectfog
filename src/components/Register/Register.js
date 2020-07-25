@@ -90,7 +90,7 @@ class Register extends Component{
 
   <button 
     onClick={()=>onRouteChange('home')}
-  className="primary " type="submit">
+  className="primary1 " type="submit">
     Submit
   </button>
 </Form>

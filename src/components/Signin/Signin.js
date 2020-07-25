@@ -38,7 +38,7 @@ class Signin extends Component{
   </Form.Group>
   <button
     onClick={()=>onRouteChange('home')}
-  className="primary" type="submit">
+  className="primary1" type="submit">
     Submit
   </button>
 </Form>
