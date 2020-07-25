@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed9631f5ca832fdfddce729b02982b86",
+    "revision": "1fe6e8ae11df5802eede6f143eb74cdb",
     "url": "/projectfog/index.html"
   },
   {
-    "revision": "32116fa42354a279a979",
+    "revision": "6f0cf38c75f6a141ffc2",
     "url": "/projectfog/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a464f261426c7d18d878",
-    "url": "/projectfog/static/css/main.a9b4d406.chunk.css"
+    "revision": "bb577bb4acb40a9c92e3",
+    "url": "/projectfog/static/css/main.75ea309e.chunk.css"
   },
   {
-    "revision": "32116fa42354a279a979",
-    "url": "/projectfog/static/js/2.0ae2288a.chunk.js"
+    "revision": "6f0cf38c75f6a141ffc2",
+    "url": "/projectfog/static/js/2.65eabff6.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/projectfog/static/js/2.0ae2288a.chunk.js.LICENSE.txt"
+    "url": "/projectfog/static/js/2.65eabff6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a464f261426c7d18d878",
-    "url": "/projectfog/static/js/main.86337d22.chunk.js"
+    "revision": "bb577bb4acb40a9c92e3",
+    "url": "/projectfog/static/js/main.07ac0118.chunk.js"
   },
   {
     "revision": "ae8d31f9c92865fadac9",
