@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6025f33d5c5bd2049c8c7dc50e54d3e6",
+    "revision": "ed9631f5ca832fdfddce729b02982b86",
     "url": "/projectfog/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projectfog/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8f7bf379d64685cd366d",
-    "url": "/projectfog/static/css/main.382c286c.chunk.css"
+    "revision": "a464f261426c7d18d878",
+    "url": "/projectfog/static/css/main.a9b4d406.chunk.css"
   },
   {
     "revision": "32116fa42354a279a979",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/projectfog/static/js/2.0ae2288a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f7bf379d64685cd366d",
-    "url": "/projectfog/static/js/main.3d446a4c.chunk.js"
+    "revision": "a464f261426c7d18d878",
+    "url": "/projectfog/static/js/main.86337d22.chunk.js"
   },
   {
     "revision": "ae8d31f9c92865fadac9",
