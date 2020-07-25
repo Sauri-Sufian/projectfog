@@ -1,0 +1,56 @@
+.app{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+/* .nav{
+    display: inline-block;
+    
+}*/
+.nav {
+    margin-top: 1rem;
+} 
+.top{
+    height: 100px;
+    width: 100px;
+  display: inline-block;
+  float: right;
+  margin-right: 1rem;
+}
+.logo{
+    width: 80px;
+}
+.rest{
+    width: initial;
+    display: inline-block;
+    margin-top: -4rem;
+}
+.content{
+    margin-left: 5rem;
+    border-radius: 10px;
+    margin-top: -5rem;
+    /*  width: 90rem; */ 
+    /*  float: right;  */
+}
+
+.head{
+    display: block;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.info{
+    display: inline-block;
+    margin-top: -8rem;
+    margin-left: 12rem; 
+}
+.room{
+    margin-left: 12.3rem;
+}
+
+.blue{
+    background-color:#06C5F4;
+}
+.view{
+    margin-top: -12rem;
+}

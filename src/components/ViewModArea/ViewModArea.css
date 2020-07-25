@@ -1,0 +1,32 @@
+.main{
+    display: inline-block;
+     width: 100%; 
+}
+.main h2{
+ /* margin-top: 1rem;   */
+}
+.top{
+    display: inline-block;
+    margin-top: -1rem;
+    height: 80px;   
+}
+.mainNav{
+    display: inline-block;
+    width: 15rem;
+
+}
+.viewContent{
+    margin-left: 15rem;
+    margin-top: -14rem;
+}
+.viewContent h1{
+    display: inline-block;
+    width: 10rem;
+   
+}
+ .table1{
+    width: 60%;
+    font-size: 13px;
+}
+
+ 

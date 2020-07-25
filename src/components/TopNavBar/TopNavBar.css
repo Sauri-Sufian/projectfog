@@ -1,0 +1,36 @@
+.loginout{
+    height: 100px;
+    width: 100px;
+    margin-top: -1rem;
+}
+
+.loginoutbtn{
+    float: right;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+img{
+    width: 75px;
+  
+}
+ul{
+    list-style-type: none;
+}
+ li{
+    display: block;
+    width: 15rem;
+    margin-left: -2rem;
+    font-size: 15px;
+    border: 1px solid black;
+}
+.dropdown-content{
+    position:absolute;
+    right: 5%;
+    left: auto;
+}
+.userProfile{
+    height: 6rem;
+    width: 15rem;
+   /*  background-color: red; */
+}

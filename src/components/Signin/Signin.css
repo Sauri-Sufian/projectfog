@@ -1,0 +1,12 @@
+.signin{
+    width: 20rem;
+  /*   border: 1px solid black; */
+    margin-left: 40%;
+    margin-top: 5rem;
+   /*  background-color: blanchedalmond; */
+   
+}
+.float{
+  float: right;
+  margin-top: -4rem;
+}

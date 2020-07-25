@@ -1,0 +1,29 @@
+.infoCardBody{
+    display: inline-block;
+    margin: 10px;
+    margin-left:.7rem;
+    width: 18rem;
+    height: 5.6em;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px 0 rgba( 0, 0, 0, .2 );
+ /*    background-color:#06C5F4; */
+    
+}
+.infoCardicon{
+   
+    display: inline-block;
+    width:5.6em;
+   height:5.6em;
+   border-radius: 5px;
+    /* background-color: #039CC2; */
+}
+ .infoCardicon div{
+    padding: 3rem;
+} 
+.infoCard{
+    display: inline-block;
+    margin: 10px;
+  width: 7rem;
+  height: 2rem;
+  
+}

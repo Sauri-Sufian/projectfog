@@ -1,0 +1,46 @@
+
+ export const cardsinfo=[
+    {
+        id:'101',
+        NeedsCleaning:true,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    },
+    {
+        id:'102',
+        NeedsCleaning:true,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    },
+    {
+        id:'103',
+        NeedsCleaning:false,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    },
+    {
+        id:'104',
+        NeedsCleaning:true,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    },
+    {
+        id:'105',
+        NeedsCleaning:true,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    },
+    {
+        id:'106',
+        NeedsCleaning:true,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    },
+    {
+        id:'107',
+        NeedsCleaning:true,
+        Atmosph:'N/A',
+        Surface:'N/A',
+    }
+]
+
