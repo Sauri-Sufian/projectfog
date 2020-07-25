@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/projectfog/static/css/main.382c286c.chunk.css",
+    "main.js": "/projectfog/static/js/main.3d446a4c.chunk.js",
+    "main.js.map": "/projectfog/static/js/main.3d446a4c.chunk.js.map",
+    "runtime-main.js": "/projectfog/static/js/runtime-main.e25e1934.js",
+    "runtime-main.js.map": "/projectfog/static/js/runtime-main.e25e1934.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/projectfog/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0ae2288a.chunk.js": "/projectfog/static/js/2.0ae2288a.chunk.js",
+    "static/js/2.0ae2288a.chunk.js.map": "/projectfog/static/js/2.0ae2288a.chunk.js.map",
+    "index.html": "/projectfog/index.html",
+    "precache-manifest.1377c042def9222bf9bbf541d34c0105.js": "/projectfog/precache-manifest.1377c042def9222bf9bbf541d34c0105.js",
+    "service-worker.js": "/projectfog/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/projectfog/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.382c286c.chunk.css.map": "/projectfog/static/css/main.382c286c.chunk.css.map",
+    "static/js/2.0ae2288a.chunk.js.LICENSE.txt": "/projectfog/static/js/2.0ae2288a.chunk.js.LICENSE.txt",
+    "static/media/im8Logo.png": "/projectfog/static/media/im8Logo.7fe11d70.png",
+    "static/media/user.png": "/projectfog/static/media/user.5933d0ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e25e1934.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0ae2288a.chunk.js",
+    "static/css/main.382c286c.chunk.css",
+    "static/js/main.3d446a4c.chunk.js"
+  ]
+}
