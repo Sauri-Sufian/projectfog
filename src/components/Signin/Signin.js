@@ -36,11 +36,11 @@ class Signin extends Component{
   <Form.Group controlId="formBasicCheckbox">
     <Form.Check type="checkbox" label="Check me out" />
   </Form.Group>
-  <Button
+  <button
     onClick={()=>onRouteChange('home')}
-  variant="primary" type="submit">
+  className="primary" type="submit">
     Submit
-  </Button>
+  </button>
 </Form>
         </div>
         </div>

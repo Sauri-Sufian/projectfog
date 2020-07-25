@@ -88,11 +88,11 @@ class Register extends Component{
   
 
 
-  <Button 
+  <button 
     onClick={()=>onRouteChange('home')}
-  variant="primary " type="submit">
+  className="primary " type="submit">
     Submit
-  </Button>
+  </button>
 </Form>
 
             </div>

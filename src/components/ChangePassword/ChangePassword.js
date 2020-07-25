@@ -22,11 +22,11 @@ class ChangePassword extends Component{
     <Form.Control type="password" placeholder="Password" />
   </Form.Group>
   
-  <Button
+  <button 
     onClick={()=>onRouteChange('home')}
-  variant="secondary" type="submit">
+  className="primary " type="submit">
     Change Password
-  </Button>
+  </button>
 </Form>
             </div>
         </div>

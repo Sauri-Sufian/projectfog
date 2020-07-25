@@ -1,10 +1,12 @@
 {
   "name": "projectfog",
+  "homepage": "https://Sauri-Sufian.github.io/projectfog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.5.0",
     "cra-template": "1.0.3",
+    "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.2.2",
     "react-bootstrap-sidebar": "0.0.1",
@@ -16,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
